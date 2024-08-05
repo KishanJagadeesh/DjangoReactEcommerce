@@ -1,0 +1,24 @@
+/* this will make the main tag full height or width
+making the footer automatically go down */
+main{
+  min-height: 80vh;
+}
+
+h3{
+  padding: 1rem;
+}
+
+.rating span{
+  margin:0.1rem;
+}
+
+h1{
+  font-size: 1.8rem;
+  padding-left: 1rem 0 ;
+}
+
+
+h2{
+  font-size: 1.4rem;
+  padding-left: 0.5rem 0 ;
+}
